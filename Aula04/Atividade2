@@ -1,0 +1,45 @@
+# """
+# 1.	Crie um script em Python para receber dois números informados pelo usuário e mostrar todos números entre eles em ordem decrescente.
+
+# """
+# Vlr_cont1= int(input('Digite o valor inicial da contagem :'))    
+# Vlr_cont2= int(input('Digite o valor final da contagem:')) 
+
+# while Vlr_cont1:
+#           print(Vlr_cont1,end=' ')
+#           Vlr_cont1-=1
+# print('\n','-'*50) 
+
+# while Vlr_cont2:
+#           print(Vlr_cont2,end=' ')
+#           Vlr_cont2-=1
+# print('\n','-'*50) 
+
+# """
+# 2.	Faça um script que mostre uma contagem iniciando em 10, finalizando em 500 com incremento de 5 em 5.
+# """
+# cont=10
+# while cont<=500:
+#   print(cont,end=' ')
+#   cont+=5
+
+"""
+3.	Faça um script que mostre os números pares em um intervalo definido pelo usuário.
+"""
+
+Num1= float(input('Informe o 1º número:'))
+Num2= float(input('Informe o 2º número:'))
+print(type(Num1))
+print(type(Num2))
+
+if Num1<Num2:
+    if (Num1%2)==0:
+  
+elif Num1=='<0':
+    print('O número é inválido:')
+
+
+
+
+
+        
