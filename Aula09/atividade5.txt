@@ -1,6 +1,6 @@
+deya - <msilib.Table object at 0x000001E5EFE87D90>
 deya - 10.0
-deya - 10.0
-de - 10.0 - 10.0.<built-in function sum>
-deya - 10.0 - 10.0
-deya - 10.0 - 10.0
-deya - 10.0
+d - 10.0
+deya - 9.0
+10 - 10.0
+deya - 8.0 - 16082023
