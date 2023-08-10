@@ -8,3 +8,4 @@ Nome: d
 Nome: d
 Nome: d
 Nome: d
+& C:/Users/SENAC/AppData/Local/Programs/Python/Python38/python.exe c:/Users/SENAC/Desktop/andreia/Python0001/Aula09/exemplo7.py - ma

@@ -21,21 +21,30 @@
 """
 4.	Crie uma função em Python para mostrar apenas as chaves de um dicionário.
 """
-# dic = {1: 'Curso',2:'Programação',3:'Python',4:'legal'}
-# print(dic.keys())
+def chaves(dic):
+    return dic.keys()
+dic = {1: 'Curso',2:'Programação',3:'Python',4:'legal'}
+print(chaves(dic))
 """
 5.	Crie uma função em Python para mostrar apenas os valores de um dicionário.
 """
-# print(dic.values())
+def valores(dic):
+    return dic.values()
+dic = {1: 'Curso',2:'Programação',3:'Python',4:'legal'}
+print(valores(dic))
 """
 6.	Crie uma função em Python para mostrar as chaves e os valores de um dicionário.
 """
+# def valores(dic):
+#     return dic.items()
 # dic = {1: 'Curso',2:'Programação',3:'Python',4:'legal'}
-# print(dic)
+# print(valores(dic))
 
 """
 7.	Crie uma função em Python para retornar a quantidade de itens existentes em um dicionário.
 """
-# dic = {1: 'Curso',2:'Programação',3:'Python',4:'legal'}
+def valores(dic):
+    return dic
+dic = {1: 'Curso',2:'Programação',3:'Python',4:'legal'}
     
-# print("Qtd de itens:",len(dic))
+print("Qtd de itens:",len(dic))

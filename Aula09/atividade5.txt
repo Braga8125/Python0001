@@ -1,0 +1,6 @@
+deya - 10.0
+deya - 10.0
+de - 10.0 - 10.0.<built-in function sum>
+deya - 10.0 - 10.0
+deya - 10.0 - 10.0
+deya - 10.0
