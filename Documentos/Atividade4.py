@@ -14,17 +14,28 @@
 """
 3.	Crie uma função em Python para mostrar o produto da multiplicação entre n valores.
 """
-
-def produto_multi(*args):
-    return args*args
-print(produto_multi(5,2))
-
+# def multi(v1,v2):
+#     total = v1*v2
+#     return total
+# print(multi(10,2))
 """
 4.	Crie uma função em Python para mostrar apenas as chaves de um dicionário.
 """
-
+# dic = {1: 'Curso',2:'Programação',3:'Python',4:'legal'}
+# print(dic.keys())
 """
 5.	Crie uma função em Python para mostrar apenas os valores de um dicionário.
 """
+# print(dic.values())
+"""
+6.	Crie uma função em Python para mostrar as chaves e os valores de um dicionário.
+"""
+# dic = {1: 'Curso',2:'Programação',3:'Python',4:'legal'}
+# print(dic)
 
-
+"""
+7.	Crie uma função em Python para retornar a quantidade de itens existentes em um dicionário.
+"""
+# dic = {1: 'Curso',2:'Programação',3:'Python',4:'legal'}
+    
+# print("Qtd de itens:",len(dic))
