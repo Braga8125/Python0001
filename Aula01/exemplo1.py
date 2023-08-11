@@ -21,5 +21,5 @@ print("O Curso Programando com pyton", "custa = R$250,00")
 print("O curso", nome_curso, "custa R$", Valor_curso)
 #f - strings no python
 print(f"Seja bem-vindo(a) {nome_pessoa}")
-print(f"o valor do curso {nome_curso} é R${Valor_curso}")
+print(f"o valor do curso {nome_curso} é R${Valor_curso}.2F")
 
