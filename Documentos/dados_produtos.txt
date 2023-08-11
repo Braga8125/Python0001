@@ -1,0 +1,6 @@
+
+
+
+O produto é cadeira
+ - o valor do produto é R$20.0
+ - quantidade vendida 10.0
