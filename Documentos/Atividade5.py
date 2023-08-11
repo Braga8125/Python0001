@@ -3,13 +3,12 @@ Crie uma função que leia o nome e as notas de um aluno e salve em um arquivo o
 """
 
 try:
-    txt = open("Python0001/Aula09/atividade5.txt","a+",encoding='utf-8')
+    txt = open("PYTHON0001\Documentos\atividade5.txt","a+",encoding='utf-8')
     nome = input("Informe o nome:")
     nota1 = float(input('Informe a nota:'))
     nota2 = float(input('Informe a nota:'))
-    data = int(input('Informe a data completa:'))
     soma = nota1+nota2  
-    txt.write(f"{nome:} - {soma/2:} - {data:>}\n") 
+    txt.write(f"{nome:} - {soma/2:}\n") 
    
 except:
     print("Erro ao gravar os dados!!!") 
